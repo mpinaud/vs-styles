@@ -1,0 +1,184 @@
+/*
+Welcome to your VS Code CSS Stylesheet.
+
+Instructions:
+https://github.com/jbouhier/conf/blob/master/vscode/style.css
+*/
+
+/* MTK??? */
+/* 1 Operator, Ligature, Plain Text & Punctuation */
+/* 2 ??? */
+/* 3 Comment */
+/* 4 className, functionName, const, let, extends */
+/* 5 ??? */
+/* 6 CSS style sheet className */
+/* 7 Number */
+/* 8 Value */
+/* 9 ??? */
+/* 10 Component */
+/* 11 Function Name */
+/* 12 JS className, objectName */
+/* 13 ??? */
+/* 14 ??? */
+/* 15 import, from, return, export default */
+
+/*
+-__ /\\                    ,,             -__ /\
+  ||  \\                   ||               || \,    _    '
+ /||__|| \\ \\ ,._-_ -_-_  ||  _-_         /|| /    < \, \\ \\/\\
+ \||__|| || ||  ||   || \\ || || \\        \||/-    /-|| || || ||
+  ||  |, || ||  ||   || || || ||/           ||  \  (( || || || ||
+_-||-_/  \\/\\  \\,  ||-'  \\ \\,/        _---_-|,  \/\\ \\ \\ \\
+  ||                 |/
+                     '
+*/
+
+/* .mtk1 { color: #ffff00; }
+.mtk2 { color: #1e1e1e; }
+.mtk3 { color: #747474!important; }
+.mtk4 { color: #0044ff!important; }
+.mtk5 { color: #d16969; }
+.mtk6 { color: #fffb00; }
+.mtk7 { color: #ff0156; }
+.mtk8 { color: #00ffff }
+.mtk9 { color: #7073cf; }
+.mtk10 {
+    color: #04e2ff;
+    font-family: 'futura';
+    font-size: 1.4em;
+}
+.mtk11 { color: #99a1e9; }
+.mtk12 { color: #00ff80; }
+.mtk13 { color: #ffa958; }
+.mtk14 { color: #f44747; }
+.mtk15 {
+    font-family: 'streamster';
+    font-size: 2em;
+    letter-spacing: 2px;
+    color: #ff00ff!important;
+} */
+
+/*                                                                              
+-__ /\\                    ,,             -__ /\                         /\  
+  ||  \\                   ||               || \,    _    '             (  ) 
+ /||__|| \\ \\ ,._-_ -_-_  ||  _-_         /|| /    < \, \\ \\/\\         // 
+ \||__|| || ||  ||   || \\ || || \\        \||/-    /-|| || || ||        //  
+  ||  |, || ||  ||   || || || ||/           ||  \  (( || || || ||       /(   
+_-||-_/  \\/\\  \\,  ||-'  \\ \\,/        _---_-|,  \/\\ \\ \\ \\       {___ 
+  ||                 |/                                                      
+                     '                                                        */
+
+/* .mtk1 { color: #ffff00; }
+.mtk2 { color: #1e1e1e; }
+.mtk3 { color: #747474!important; }
+.mtk4 { color: #0044ff!important; }
+.mtk5 { color: #d16969; }
+.mtk6 { color: #fffb00; }
+.mtk7 { color: #ff0156; }
+.mtk8 { color: #00ffff }
+.mtk9 { color: #7073cf; }
+.mtk10 { color: #04e2ff;}
+.mtk11 { color: #99a1e9; }
+.mtk12 { color: #00ff80; }
+.mtk13 { color: #ffa958; }
+.mtk14 { color: #f44747; }
+.mtk15 {color: #ff00ff!important; } */
+
+/*
+ _______  _______  __   __  ___   _______ 
+|       ||       ||  |_|  ||   | |       |
+|       ||   _   ||       ||   | |       |
+|       ||  | |  ||       ||   | |       |
+|      _||  |_|  ||       ||   | |      _|
+|     |_ |       || ||_|| ||   | |     |_ 
+|_______||_______||_|   |_||___| |_______|
+*/
+
+/* .mtk1 { color: #ffff00; }
+.mtk2 { color: #1e1e1e; }
+.mtk3 { color: #747474!important; }
+.mtk4 { color: #0044ff!important; }
+.mtk5 { color: #d16969; }
+.mtk6 { color: #fffb00; }
+.mtk7 { color: #ff0156; }
+.mtk8 { color: #00ffff }
+.mtk9 { color: #7073cf; }
+.mtk10 {
+    color: #04e2ff;
+    font-family: 'futura';
+    font-size: 1.4em;
+}
+.mtk11 { color: #99a1e9; }
+.mtk12 { color: #00ff80; }
+.mtk13 { color: #ffa958; }
+.mtk14 { color: #f44747; }
+.mtk15 {
+    font-family: 'comic sans ms';
+    font-size: 2em;
+    letter-spacing: 2px;
+    color: #ff00ff!important;
+} */
+
+/*
+ __
+/  |
+$$ |____    ______   __    __   _______
+$$      \  /      \ /  |  /  | /       |
+$$$$$$$  | $$$$$$  |$$ |  $$ |/$$$$$$$/
+$$ |  $$ | /    $$ |$$ |  $$ |$$      \
+$$ |  $$ |/$$$$$$$ |$$ \__$$ | $$$$$$  |
+$$ |  $$ |$$    $$ |$$    $$/ /     $$/
+$$/   $$/  $$$$$$$/  $$$$$$/  $$$$$$$/
+ */
+
+/* .mtk1 { color: #ffffff; }
+.mtk2 { color: #ffffff; }
+.mtk3 { color: #ffffff !important; }
+.mtk4 { color: #ffffff !important; }
+.mtk5 { color: #ffffff; }
+.mtk6 { color: #ffffff; }
+.mtk7 { color: #ffffff; }
+.mtk8 { color: #ffffff }
+.mtk9 { color: #ffffff; }
+.mtk10 {
+    color: #ffffff;
+    font-family: 'futura';
+    font-size: 1.4em;
+}
+.mtk11 { color: #ffffff; }
+.mtk12 { color: #ffffff; }
+.mtk13 { color: #ffffff; }
+.mtk14 { color: #ffffff; }
+.mtk15 { color: #ffffff !important; } */
+
+/*
+      _/_/_/                                      _/
+   _/          _/_/_/  _/    _/    _/_/_/    _/_/_/
+    _/_/    _/    _/  _/    _/  _/    _/  _/    _/
+       _/  _/    _/  _/    _/  _/    _/  _/    _/
+_/_/_/      _/_/_/    _/_/_/    _/_/_/    _/_/_/
+               _/
+              _/
+ */
+
+/* .mtk1 { color: #d4d4d4; }
+.mtk2 { color: #1e1e1e; }
+.mtk3 { color: #6a9955; }
+.mtk4 { color: #569cd6; }
+.mtk5 { color: #d16969; }
+.mtk6 { color: #d7ba7d; }
+.mtk7 { color: #b5cea8; }
+.mtk8 { color: #ce9178; }
+.mtk9 { color: #646695; }
+.mtk10 { color: #4ec9b0; }
+.mtk11 { color: #dcdcaa; }
+.mtk12 { color: #9cdcfe; }
+.mtk13 { color: #000080; }
+.mtk14 { color: #f44747; }
+.mtk15 { color: #c586c0; }
+
+.mtk16 { color: #d4d4d4; }
+.mtk17 { color: #6796e6; }
+.mtk18 { color: #808080; }
+.mtk19 { color: #b267e6; }
+.mtk20 { color: #cd9731; } */

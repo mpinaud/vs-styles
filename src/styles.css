@@ -1,0 +1,90 @@
+/*
+Instructions:
+
+https://github.com/jbouhier/conf/blob/master/vscode/style.css
+
+1. Operator, Ligature, Plain Text & Punctuation
+2. ???
+3. Comment
+4. className, functionName, const, let, extends
+5. ???
+6. CSS style sheet className
+7. Number
+8. Value
+9. ???
+10. Component
+11. Function Name
+12. JS className, objectName
+13. import, from, return, export default
+14. className, literals
+15. ???
+*/
+
+/*
+Instructions:
+
+https://github.com/jbouhier/conf/blob/master/vscode/style.css
+
+1. Operator, Ligature, Plain Text & Punctuation
+2. ???
+3. ???
+4. Comment 
+5. className, functionName, const, let, extends
+6. Number
+7. CSS style sheet className
+8. Value
+9. className, literals
+10. ???
+11. ???
+12. JS className, objectName
+13. ???
+14. ???
+15. Function Name
+16. Component
+17. import, from, return, export default
+*/
+
+
+/* React */
+.mtk1 { color: #ffff00; }
+
+.mtk2 { color: #1e1e1e; }
+
+.mtk3 { color: #747474!important; }
+
+.mtk4 { color: #747474!important; }
+
+.mtk5 { color: #5188ff!important; }
+
+.mtk6 { color: #ffffff; }
+
+.mtk7 { color: #fffb00; }
+
+.mtk8 { color: #04e2ff   }
+
+.mtk9 { color: #00ff80; }
+
+.mtk10 { color: #ffffff; }
+
+.mtk11 { color: #99a1e9; }
+
+.mtk12 { color: #00ff80; }
+
+.mtk13 { color: #ffffff; }
+
+.mtk14 { color: #00ff80; }
+
+.mtk15 { color: #99a1e9; }
+
+.mtk16 {
+  color: #04e2ff;
+  font-family: 'Monofur for Powerline';
+  font-size: 1.25em;
+}
+
+.mtk17 {
+  font-family: 'Monofur for Powerline';
+  font-size: 1.25em;
+  /* letter-spacing: 2px; */ 
+  color: #ff00f7!important;
+}
